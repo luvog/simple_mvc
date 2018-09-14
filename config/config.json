@@ -1,0 +1,10 @@
+{
+	"modules": {
+		"$database": {
+			"db_user": "root",
+			"db_pass": "test",
+			"db_host": "localhost",
+			"db_data": "prueba_walmeric"
+		}
+	}
+}
